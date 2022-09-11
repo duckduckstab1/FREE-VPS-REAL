@@ -8,5 +8,5 @@ Run vps
 done
 
 
-Dont worry the files are on another user so you dont have to!!!!!!
+Dont worry the stuff you own are SECURED AND SAFE so you no instwll it again when yoj jse Github Vps
 
