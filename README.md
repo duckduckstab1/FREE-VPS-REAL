@@ -1,3 +1,6 @@
+# WARNING
+Supervps is bannable if it reach 7h without u cancel it so it not recommend!!! Only use for personal hobbies
+
 # FREE-VPS-REAL
 Go to settings
 go to secrets
